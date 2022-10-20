@@ -35,7 +35,9 @@ export default function Row({ title, movies }: Props) {
           onClick={() => {
             handleCLick("left");
           }}
-          className="absolute top-0 bottom-0 left-2 z-40 m-auto h-9 w-9 cursor-pointer transition opacity-0 hover:scale-125 group-hover:opacity-100"
+          className={`absolute top-0 bottom-0 left-2 z-40 m-auto h-9 w-9 cursor-pointer transition opacity-0 hover:scale-125 group-hover:opacity-100 ${
+            !isMoved && "hidden"
+          }`}
         />
 
         <div
