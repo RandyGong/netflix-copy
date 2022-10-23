@@ -29,6 +29,8 @@ Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&ut
 
 https://www.youtube.com/watch?v=cwqNAkwhKqw
 
+https://github.com/lukef7fywmrp/netflix-redesign
+
 // https://api.themoviedb.org/3/movie/550?api_key=7109797d4d7886e6d540f0b6454f1fa8
 
 // API Read Access Token (v4 auth)
